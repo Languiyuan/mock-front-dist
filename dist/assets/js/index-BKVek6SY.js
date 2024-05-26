@@ -1,0 +1,1 @@
+import{d as o,n,b as t,c,_ as s}from"./index-7IicHMeD.js";const _=o({__name:"index",setup(a){return(r,p)=>{const e=t("RouterView");return c(),n(e)}}}),i=s(_,[["__scopeId","data-v-ceba66f2"]]);export{i as default};
