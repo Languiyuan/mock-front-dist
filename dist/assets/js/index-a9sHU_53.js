@@ -1,0 +1,1 @@
+import{d as e,e as s,c as t,_ as a}from"./index-CavoJ_rQ.js";const o={class:"wrapper"},_=e({__name:"index",setup(c){return(n,r)=>(t(),s("div",o,"个人中心"))}}),d=a(_,[["__scopeId","data-v-6a7003d8"]]);export{d as default};
